@@ -69,6 +69,6 @@ email: "giuliano.formisano@nuffield.ox.ac.uk"
 highlight_name: true
 ---
 
-I am a PhD candidate in Social Data Science at the {{< staticref "https://www.ox.ac.uk" "newtab" >}}University of Oxford{{< /staticref >}}. My research focuses on populist parties' social media communication and public opinion.
+I am a PhD candidate in Social Data Science at the University of Oxford. My research focuses on populist parties' social media communication and public opinion.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

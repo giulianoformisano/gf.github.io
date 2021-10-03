@@ -30,7 +30,7 @@ education:
   - course: MPhil Politics
     institution: University of Oxford
     year: 2019-2021
-  - course: BA Politics and International Relations
+  - course: BA Politics & IR
     institution: University of Exeter
     year: 2016-2019
 

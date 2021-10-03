@@ -24,13 +24,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Social Data Science
+  - course: PhD Social Data Science
     institution: University of Oxford
     year: 2021-Present
-  - course: MPhil in Politics
+  - course: MPhil Politics
     institution: University of Oxford
     year: 2019-2021
-  - course: BA in Politics and International Relations
+  - course: BA Politics and International Relations
     institution: University of Exeter
     year: 2016-2019
 

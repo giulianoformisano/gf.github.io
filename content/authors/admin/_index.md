@@ -13,7 +13,7 @@ organizations:
   url: https://www.ox.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in Social Data Science at the {{< staticref "https://www.ox.ac.uk" "newtab" >}}University of Oxford{{< /staticref >}}. My research focuses on populist parties' social media communication and public opinion.
+bio: I am a PhD candidate in Social Data Science at the University of Oxford. My research focuses on populist parties' social media communication and public opinion.
 
 # Interests to show in About widget
 interests:

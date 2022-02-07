@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD Social Data Science
     institution: University of Oxford
-    year: 2021-Present
+    year: 2021-
   - course: MPhil Politics
     institution: University of Oxford
     year: 2019-2021
@@ -46,9 +46,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/giuformisano
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #icon_pack: fas
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/giulianoformisano

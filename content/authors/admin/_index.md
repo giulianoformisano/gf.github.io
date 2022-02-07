@@ -72,7 +72,7 @@ highlight_name: true
 
 ---
 
-I am a PhD Candidate in Social Data Science at the University of Oxford as a Nuffield College and ESRC scholar.
+I am a PhD Candidate in Social Data Science at Nuffield College, University of Oxford.
 
 My research focuses on socila media polarisation. I study political discourse, using a wide range of computational methods, including machine learning, natural language processing, network analysis, and time-series.
 

@@ -9,7 +9,7 @@ summary: Interview to Marco Montemagno, digital entrepreneur & broadcaster, foun
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-05-04"
-link: https://www.youtube.com/watch?v=iiU2raV2pNk
+link: https://www.youtube.com/watch?v=VR-YABLRBBE
 
 authors: []
 tags: []
@@ -21,10 +21,10 @@ links:
 - icon: youtube
   icon_pack: fab
   name: watch
-  url: https://www.youtube.com/watch?v=iiU2raV2pNk
+  url: https://www.youtube.com/watch?v=VR-YABLRBBE
 url_code: ""
 url_pdf: ""
 url_slides: ""
-- url_video: "https://www.youtube.com/watch?v=iiU2raV2pNk"
+- url_video: "https://www.youtube.com/watch?v=VR-YABLRBBE"
 
 ---

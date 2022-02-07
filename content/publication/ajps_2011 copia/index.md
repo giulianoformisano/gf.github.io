@@ -1,6 +1,6 @@
 ---
 title: "Fear-anger cycles: Governmental and populist politics of emotion (Working Paper)"
-date: 2011-01-01
+date: pending
 authors: ["Joerg Friedrichs", "Niklas Stoehr", "Giuliano Formisano"]
 publication_types: ["2"]
 abstract: "Unlike public intellectuals and academic scholars who claim that populists thrive on fear of minority groups (e.g. Michael Moore, Martha Nussbaum), we suggest that what they thrive on is anger against governmental actors. It is governmental actors who increasingly rely on fear, be it to pursue policy objectives or to keep populists at bay. The Brexit referendum, election of Donald Trump, and COVID-19 are cases in point. In a battle for the hearts and minds of the people, governmental and populist actors send fear and anger signals, respectively. We theorize this contest of fear and anger as the fear-anger cycle and trace it in concrete manifestations.

@@ -76,3 +76,5 @@ I am a PhD Candidate in Social Data Science at Nuffield College, University of O
 
 My research focuses on socila media polarisation. I study political discourse, using a wide range of computational methods, including machine learning, natural language processing, network analysis, and time-series.
 
+Besides my PhD, I am working with the Oxford International Development Institute on political science research, involving machine learning methods to study social media communication during COVID, Brexit and the US 2016-2020 elections. I am also a teching assistant for the course of Digital Politics at the Oxford Internet Institute.
+

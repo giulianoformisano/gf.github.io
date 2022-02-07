@@ -69,6 +69,8 @@ email: "giuliano.formisano@nuffield.ox.ac.uk"
 highlight_name: true
 ---
 
-I am a PhD candidate in Social Data Science at the University of Oxford. My research focuses on socila media polarisation. I study political discourse on Twitter, using a wide range of computational methods, including machine learning, natural language processing, network analysis, and time-series.
+I am a PhD Candidate in Social Data Science at the University of Oxford as a Nuffield College and ESRC scholar.
+
+My research focuses on socila media polarisation. I study political discourse, using a wide range of computational methods, including machine learning, natural language processing, network analysis, and time-series.
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

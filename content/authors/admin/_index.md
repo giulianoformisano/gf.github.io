@@ -15,8 +15,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD candidate in Social Data Science at the University of Oxford. 
 
-My research focuses on socila media polarisation. I study political discourse on Twitter, using a wide range of computational methods, including machine learning, natural language processing, network analysis, and time-series.
-
 # Interests to show in About widget
 interests:
 - Computational Social Science
@@ -71,6 +69,6 @@ email: "giuliano.formisano@nuffield.ox.ac.uk"
 highlight_name: true
 ---
 
-I am a PhD candidate in Social Data Science at the University of Oxford. My research focuses on populist parties' social media communication and public opinion.
+I am a PhD candidate in Social Data Science at the University of Oxford. My research focuses on socila media polarisation. I study political discourse on Twitter, using a wide range of computational methods, including machine learning, natural language processing, network analysis, and time-series.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

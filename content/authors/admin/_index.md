@@ -13,7 +13,7 @@ organizations:
   url: https://www.ox.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in Social Data Science at the University of Oxford. 
+bio: PhD candidate in Social Data Science at the University of Oxford. 
 
 # Interests to show in About widget
 interests:

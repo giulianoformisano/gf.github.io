@@ -24,6 +24,6 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=3TiFObzhiFI"
+url_video: ""
 
 ---

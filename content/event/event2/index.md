@@ -2,7 +2,7 @@
 title: Marco Cappato's Interview 
 
 event: Oxford University Italian Society
-event_url: https://example.org
+event_url: https://www.youtube.com/watch?v=iiU2raV2pNk
 
 summary: Interview to the Italian former MEP, Marco Cappato.
 

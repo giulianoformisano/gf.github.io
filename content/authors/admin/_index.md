@@ -14,6 +14,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD candidate in Social Data Science at the University of Oxford. 
+
 My research focuses on socila media polarisation. I study political discourse on Twitter, using a wide range of computational methods, including machine learning, natural language processing, network analysis, and time-series.
 
 # Interests to show in About widget

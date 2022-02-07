@@ -1,15 +1,15 @@
 ---
-title: Marco Cappato's Interview 
+title: Bebe Vio's Interview 
 
 event: Oxford University Italian Society
-event_url: https://www.youtube.com/watch?v=iiU2raV2pNk
+event_url: "https://www.youtube.com/watch?v=jcnQf5K4hKU"
 
-summary: Interview to the Italian former MEP, Marco Cappato.
+summary: Interview to Olympic, World and European Fencing Champion, Bebe Vio.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-05-04"
-link: https://www.youtube.com/watch?v=iiU2raV2pNk
+link: https://www.youtube.com/watch?v=jcnQf5K4hKU
 
 authors: []
 tags: []
@@ -21,7 +21,7 @@ links:
 - icon: youtube
   icon_pack: fab
   name: watch
-  url: https://www.youtube.com/watch?v=iiU2raV2pNk
+  url: https://www.youtube.com/watch?v=jcnQf5K4hKU
 url_code: ""
 url_pdf: ""
 url_slides: ""

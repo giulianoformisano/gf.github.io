@@ -18,6 +18,8 @@ bio: PhD candidate in Social Data Science at the University of Oxford.
 # Interests to show in About widget
 interests:
 - Computational Social Science
+- Machine Learning
+- Natural Language Processing
 - Comparative Politics
 - Political Economy
 

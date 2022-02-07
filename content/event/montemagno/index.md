@@ -21,7 +21,7 @@ links:
 - icon: youtube
   icon_pack: fab
   name: watch
-  url: https://www.youtube.com/watch?v=VR-YABLRBBE
+  url: "https://www.youtube.com/watch?v=VR-YABLRBBE"
 url_code: ""
 url_pdf: ""
 url_slides: ""

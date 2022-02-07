@@ -11,9 +11,6 @@ projects: []
 # Date published
 date: "2020-12-13T00:00:00Z"
 
-# Date updated
-lastmod: "2020-12-13T00:00:00Z"
-
 # Is this an unpublished draft?
 draft: false
 
@@ -23,12 +20,12 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Le Grand Continent**]'
   focal_point: ""
   placement: 2
   preview_only: false
 
 ---
 
-## Overview
+## Read more:
 https://legrandcontinent.eu/fr/2020/03/27/le-covid-19-retardera-t-il-le-brexit/

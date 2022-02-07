@@ -73,4 +73,4 @@ I am a PhD Candidate in Social Data Science at the University of Oxford as a Nuf
 
 My research focuses on socila media polarisation. I study political discourse, using a wide range of computational methods, including machine learning, natural language processing, network analysis, and time-series.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+## {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

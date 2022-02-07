@@ -9,7 +9,7 @@ summary: La pandémie de Covid-19 a créé l'une des crises sanitaires mondiales
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2020-03-27T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false

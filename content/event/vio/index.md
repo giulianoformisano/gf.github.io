@@ -8,7 +8,7 @@ summary: Interview to Olympic, World and European Fencing Champion, Bebe Vio.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-05-04"
+date: "2020-05-24"
 link: https://www.youtube.com/watch?v=jcnQf5K4hKU
 
 authors: []

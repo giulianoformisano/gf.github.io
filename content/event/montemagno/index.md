@@ -1,10 +1,10 @@
 ---
-title: Marco Cappato's Interview 
+title: Marco Montemagno's Interview 
 
 event: Oxford University Italian Society
 event_url: https://www.youtube.com/watch?v=iiU2raV2pNk
 
-summary: Interview to the Italian former MEP, Marco Cappato.
+summary: Interview to Marco Montemagno, digital entrepreneur & broadcaster, founder of Slashers, 4books, and The Update.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

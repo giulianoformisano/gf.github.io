@@ -1,5 +1,5 @@
 ---
-title: "Fear-anger cycles: Governmental and populist politics of emotion (Working Paper)"
+title: "Fear-anger cycles: Governmental and populist politics of emotion (Under Review)"
 date: pending
 authors: ["Joerg Friedrichs", "Niklas Stoehr", "Giuliano Formisano"]
 publication_types: ["2"]

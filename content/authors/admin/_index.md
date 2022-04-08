@@ -78,5 +78,5 @@ I am a PhD Candidate in Social Data Science at {{< staticref "https://www.nuffie
 
 My research focuses on social media polarisation. I study political discourse, using machine learning, natural language processing, network analysis, and time-series.
 
-Alongside my PhD, I am working at the Oxford International Development Institute on the application of machine learning methods to study social media communication during COVID, Brexit and the US 2016-2020 elections. I am also a teaching assistant for the course of Digital Politics at the {{< staticref "https://www.oii.ox.ac.uk/ " "newtab" >}} Oxford Internet Institute {{< /staticref >}}.
+Alongside my PhD, I am working as a Research Assistant at the {{< staticref "https://www.nuffield.ox.ac.uk/" "newtab" >}}Oxford International Development Institute {{< /staticref >}}, and the {{< staticref "https://www.nuffield.ox.ac.uk/" "newtab" >}} Department of Politics & IR {{< /staticref >}} on the application of transfer learning on political communication on social media. I have also worked as a teaching assistant for the course of Digital Politics at the {{< staticref "https://www.oii.ox.ac.uk/ " "newtab" >}} Oxford Internet Institute {{< /staticref >}}.
 

@@ -74,7 +74,7 @@ highlight_name: true
 
 ---
 
-I am a PhD Candidate in Social Data Science at the {{< staticref "https://www.oii.ox.ac.uk/ " "newtab" >}} Oxford Internet Institute{{< /staticref >}} and {{< staticref "https://www.nuffield.ox.ac.uk/" "newtab" >}}Nuffield College{{< /staticref >}}, University of Oxford.
+I am a PhD Candidate in Social Data Science at the {{< staticref "https://www.oii.ox.ac.uk/ " "newtab" >}} Oxford Internet Institute{{< /staticref >}} as a member of {{< staticref "https://www.nuffield.ox.ac.uk/" "newtab" >}}Nuffield College{{< /staticref >}}, University of Oxford.
 
 My research focuses on political polarisation online. I study political discourse, using machine learning, natural language processing, network analysis, and time-series.
 

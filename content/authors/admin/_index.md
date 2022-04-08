@@ -74,11 +74,11 @@ highlight_name: true
 
 ---
 
-I am a PhD Candidate in Social Data Science at the {{< staticref "https://www.oii.ox.ac.uk/ " "newtab" >}} Oxford Internet Institute{{< /staticref >}} as a member of {{< staticref "https://www.nuffield.ox.ac.uk/" "newtab" >}}Nuffield College{{< /staticref >}}, University of Oxford.
+I am a PhD Candidate in Social Data Science at the {{< staticref "https://www.oii.ox.ac.uk/ " "newtab" >}}Oxford Internet Institute{{< /staticref >}}, as a member of {{< staticref "https://www.nuffield.ox.ac.uk/" "newtab" >}}Nuffield College{{< /staticref >}}, University of Oxford.
 
 My research focuses on political polarisation online. I study political discourse, using machine learning, natural language processing, network analysis, and time-series.
 
-Alongside my PhD, I am working as a Research Assistant at the {{< staticref "https://www.qeh.ox.ac.uk/" "newtab" >}}Oxford International Development Institute {{< /staticref >}}, and the {{< staticref "https://www.politics.ox.ac.uk/" "newtab" >}} Department of Politics & IR {{< /staticref >}} on the application of transfer learning on political communication on social media. 
+Alongside my PhD, I am working as a Research Assistant at the {{< staticref "https://www.qeh.ox.ac.uk/" "newtab" >}}Oxford International Development Institute {{< /staticref >}} and {{< staticref "https://www.politics.ox.ac.uk/" "newtab" >}}Department of Politics & IR{{< /staticref >}} on the application of transfer learning to political communication analysis. 
 
 I worked as a teaching assistant for Digital Politics at the {{< staticref "https://www.oii.ox.ac.uk/ " "newtab" >}} Oxford Internet Institute{{< /staticref >}}.
 

@@ -80,4 +80,4 @@ My research focuses on political polarisation online. I study political discours
 
 Alongside my PhD, I am working as a Research Assistant at the {{< staticref "https://www.qeh.ox.ac.uk/" "newtab" >}}Oxford International Development Institute {{< /staticref >}} and {{< staticref "https://www.politics.ox.ac.uk/" "newtab" >}}Department of Politics & IR{{< /staticref >}} on the application of transfer learning to political communication analysis. 
 
-In 2022, I worked as a Teaching Assistant for Digital Politics course at the {{< staticref "https://www.oii.ox.ac.uk/ " "newtab" >}} Oxford Internet Institute{{< /staticref >}}.
+In 2022, I worked as a Teaching Assistant for the Digital Politics course at the {{< staticref "https://www.oii.ox.ac.uk/ " "newtab" >}} Oxford Internet Institute{{< /staticref >}}.

@@ -74,7 +74,7 @@ highlight_name: true
 
 ---
 
-Welcome, and thank you for visiting my website!
+Welcome and thank you for visiting my website!
 
 I am a PhD Candidate in Social Data Science at the {{< staticref "https://www.oii.ox.ac.uk/ " "newtab" >}}Oxford Internet Institute{{< /staticref >}}, and a member of {{< staticref "https://www.nuffield.ox.ac.uk/" "newtab" >}}Nuffield College{{< /staticref >}}, University of Oxford.
 

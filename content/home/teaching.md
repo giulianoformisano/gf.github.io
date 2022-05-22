@@ -24,9 +24,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - certificate_url: https://www.oii.ox.ac.uk
-    date_end: ''
+    date_end: '2022-03-12'
     date_start: '2022-01-17'
-    description: ''
+    description: 'Teaching assistant to Prof Victoria Nash'
     organization: 'Oxford Internet Institute'
     organization_url: https://www.oii.ox.ac.uk
     title: Digital Politics

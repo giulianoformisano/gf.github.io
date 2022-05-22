@@ -29,7 +29,7 @@ item:
     description: 'Teaching assistant to Prof Victoria Nash'
     organization: 'Oxford Internet Institute'
     organization_url: https://www.oii.ox.ac.uk
-    title: Digital Politics
+    title: Digital Politics (Postgraduate)
     url: ''
   
 design:

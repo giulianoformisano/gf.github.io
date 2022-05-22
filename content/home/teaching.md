@@ -26,7 +26,7 @@ item:
   - certificate_url: 
     date_end: '2022-03-12'
     date_start: '2022-01-17'
-    description: 'Teaching assistant to {{< staticref "https://www.oii.ox.ac.uk/people/profiles/victoria-nash/" "newtab" >}} Professpr Victoria Nash {{< /staticref >}}. The course teaches students both classic theories and also the latest applications of data science techniques to testing these theories.'
+    description: 'Teaching assistant to Professor Victoria Nash. The course teaches students both classic theories and also the latest applications of data science techniques to testing these theories.'
     organization: 'Oxford Internet Institute'
     organization_url: https://www.oii.ox.ac.uk
     title: Digital Politics (Postgraduate)

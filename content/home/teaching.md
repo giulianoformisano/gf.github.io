@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: 'Jan 2022'
     description: ''
-    organization: Oxford Internet Institute
+    organization: 'Oxford Internet Institute'
     organization_url: https://www.oii.ox.ac.uk/
     title: Digital Politics
     url: ''

@@ -4,7 +4,7 @@ title: Qu’est-ce qui se cache derrière l’héroïsme inhabituel des GAFAM ?
 subtitle: Plusieurs efforts conjoints entre les autorités internationales et les entreprises technologiques tentent de réduire la propagation du coronavirus. Cependant, comme les économies mondiales arrivent à un état de fatigue avec cette pandémie, les géants de la technologie eux-mêmes ne semblent pas immunisés. Des programmes de Big Data à grande échelle et des collaborations entre ennemis jurés ont eu lieu, mais qu'est-ce qui se cache derrière ce prétendu héroïsme inhabituel ?
 
 # Summary for listings and search engines
-summary: Plusieurs efforts conjoints entre les autorités internationales et les entreprises technologiques tentent de réduire la propagation du coronavirus. Cependant, comme les économies mondiales arrivent à un état de fatigue avec cette pandémie, les géants de la technologie eux-mêmes ne semblent pas immunisés. Des programmes de Big Data à grande échelle et des collaborations entre ennemis jurés ont eu lieu, mais qu'est-ce qui se cache derrière ce prétendu héroïsme inhabituel ?
+summary: Des programmes de Big Data à grande échelle et des collaborations entre ennemis jurés ont eu lieu, mais qu'est-ce qui se cache derrière ce prétendu héroïsme inhabituel ?
 
 # Link this post with a project
 projects: []

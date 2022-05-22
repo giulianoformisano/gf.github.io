@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.oii.ox.ac.uk
     date_end: ''
-    date_start: 'Jan 2022'
+    date_start: '2022-01-17'
     description: ''
     organization: 'Oxford Internet Institute'
     organization_url: https://www.oii.ox.ac.uk

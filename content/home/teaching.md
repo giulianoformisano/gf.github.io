@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.oii.ox.ac.uk
+  - certificate_url: 
     date_end: '2022-03-12'
     date_start: '2022-01-17'
     description: 'Teaching assistant to Prof Victoria Nash'

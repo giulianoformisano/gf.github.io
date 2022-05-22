@@ -4,7 +4,7 @@ title: Enrico Letta's Interview
 event: Oxford University Italian Society
 event_url: "https://www.youtube.com/watch?v=3TiFObzhiFI"
 
-summary: I have interviewed former Prime Minister of Italy, Professor Enrico Letta.
+summary: Interview to former Prime Minister of Italy, Prof Enrico Letta.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

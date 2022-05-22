@@ -23,12 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.oii.ox.ac.uk/
+  - certificate_url: https://www.oii.ox.ac.uk
     date_end: ''
     date_start: 'Jan 2022'
     description: ''
     organization: 'Oxford Internet Institute'
-    organization_url: https://www.oii.ox.ac.uk/
+    organization_url: https://www.oii.ox.ac.uk
     title: Digital Politics
     url: ''
   

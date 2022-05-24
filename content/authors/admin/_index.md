@@ -83,3 +83,5 @@ I am a PhD candidate in Social Data Science at {{< staticref "https://www.nuffie
 My research focuses on political polarisation. I study political discourse, using machine learning, natural language processing, network analysis, and time-series.
 
 Alongside my PhD, I work as a Research Assistant on transfer learning for political communication analysis at Oxford's {{< staticref "https://www.qeh.ox.ac.uk/" "newtab" >}} Development Institute {{< /staticref >}} and {{< staticref "https://www.politics.ox.ac.uk/" "newtab" >}}Department of Politics{{< /staticref >}}.
+
+I am fully-funded by the Economic and Social Research Council and Nuffield College, Oxford.

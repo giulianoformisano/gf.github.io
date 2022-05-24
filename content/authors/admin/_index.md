@@ -84,4 +84,4 @@ My research focuses on political polarisation. I study political discourse, usin
 
 Alongside my PhD, I work as a Research Assistant on transfer learning for political communication analysis at Oxford's {{< staticref "https://www.qeh.ox.ac.uk/" "newtab" >}} Development Institute {{< /staticref >}} and {{< staticref "https://www.politics.ox.ac.uk/" "newtab" >}}Department of Politics{{< /staticref >}}.
 
-I am fully-funded by the Economic and Social Research Council and Nuffield College.
+Fully-funded by the {{< staticref "https://www.granduniondtp.ac.uk/" "newtab" >}} Economic and Social Research Council {{< /staticref >}} and Nuffield College.

@@ -1,6 +1,5 @@
 ---
 # An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
 
 # This file represents a page section.
@@ -15,16 +14,38 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
-  
+ # form:
+ #   provider: netlify
+ #   formspree:
+ #     id:
+  #  netlify:
+  #    # Enable CAPTCHA challenge to reduce spam?
+  #    captcha: false
+
+  # Contact details (edit or remove options as required)
+  email: giuliano.formisanoATnuffield.ox.ac.uk
+  phone:
+  address:
+    street: New Road
+    city: Oxford
+    region: CA
+    postcode: '94305'
+    country: United States
+    country_code: US
+  coordinates:
+    latitude: '51.752834'
+    longitude: '-1.262917'
+  directions: 
+  office_hours:
+  appointment_url:
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM Me
+      link: 'https://twitter.com/giuformisano'
+
 design:
   columns: '2'
 ---

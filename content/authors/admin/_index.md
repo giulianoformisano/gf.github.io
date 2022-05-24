@@ -78,7 +78,7 @@ highlight_name: true
 
 Welcome and thank you for visiting!
 
-I am a PhD candidate in Social Data Science at {{< staticref "https://www.nuffield.ox.ac.uk/" "newtab" >}}Nuffield College{{< /staticref >}}, {{< staticref "https://www.ox.ac.uk/ " "newtab" >}}University of Oxford{{< /staticref >}}.
+I am a PhD candidate in Social Data Science at {{< staticref "https://www.nuffield.ox.ac.uk/" "newtab" >}}Nuffield College{{< /staticref >}}, {{< staticref "https://www.ox.ac.uk/" "newtab" >}}University of Oxford{{< /staticref >}}.
 
 My research focuses on political polarisation. I study political discourse, using machine learning, natural language processing, network analysis, and time-series.
 

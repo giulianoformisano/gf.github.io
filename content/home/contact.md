@@ -28,12 +28,12 @@ content:
   email: giuliano.formisanoATnuffield.ox.ac.uk
   phone:
   address:
-    street: New Road
+    street: Nuffield College, New Road
     city: Oxford
     region: 
-    postcode: '94305'
+    postcode: 'OX1 1NF'
     country: United Kingdom
-    country_code: US
+    country_code: UK
   coordinates:
     latitude: '51.752834'
     longitude: '-1.262917'

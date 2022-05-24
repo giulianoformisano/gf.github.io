@@ -30,9 +30,9 @@ content:
   address:
     street: New Road
     city: Oxford
-    region: CA
+    region: 
     postcode: '94305'
-    country: United States
+    country: United Kingdom
     country_code: US
   coordinates:
     latitude: '51.752834'

@@ -17,6 +17,6 @@ We apply machine learning and sentiment analysis to social and public media data
 featured: false
 image:
   preview_only: true
-publication: "*Work in progresse*"
+publication: "*Work in progress*"
 ---
 

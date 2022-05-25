@@ -7,6 +7,6 @@ abstract:
 featured: false
 image:
   preview_only: true
-publication: "*Work in progresse*"
+publication: "*Work in progress*"
 ---
 

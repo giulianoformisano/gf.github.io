@@ -8,6 +8,6 @@ abstract: "What was the effect of the pandemic on redistributive attitudes? A nu
 featured: false
 image:
   preview_only: true
-publication: "*Work in progresse*"
+publication: "*Work in progress*"
 ---
 

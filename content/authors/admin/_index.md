@@ -78,10 +78,4 @@ highlight_name: true
 
 Welcome and thank you for visiting!
 
-I am a PhD candidate in Social Data Science at the {{< staticref "https://www.ox.ac.uk/" "newtab" >}}University of Oxford{{< /staticref >}} as an {{< staticref "https://www.granduniondtp.ac.uk/" "newtab" >}}ESRC {{< /staticref >}} and {{< staticref "https://www.nuffield.ox.ac.uk/" "newtab" >}} Nuffield{{< /staticref >}} Scholar.
-
-My research focuses on political polarisation, using machine learning, natural language processing, network analysis, and time-series.
-
-Alongside my PhD, I work as a Researcher on transfer learning for political communication analysis at Oxford's {{< staticref "https://www.qeh.ox.ac.uk/" "newtab" >}} Development Institute {{< /staticref >}} and {{< staticref "https://www.politics.ox.ac.uk/" "newtab" >}}Department of Politics{{< /staticref >}}. I also collaborate with {{< staticref "https://medialab.sciencespo.fr/en/" "newtab" >}} Science Po's MediaLab {{< /staticref >}}.
-
-Previously, I completed an MPhil in Politics (Oxford, 2021) and a BA in Politics and International Relations (Exeter, 2019).
+I am a PhD candidate in Social Data Science at the {{< staticref "https://www.ox.ac.uk/" "newtab" >}}University of Oxford{{< /staticref >}} as an {{< staticref "https://www.granduniondtp.ac.uk/" "newtab" >}}ESRC {{< /staticref >}} and {{< staticref "https://www.nuffield.ox.ac.uk/" "newtab" >}} Nuffield{{< /staticref >}} Scholar. My research focuses on political polarisation, using machine learning, natural language processing, network analysis, and time-series. Alongside my PhD, I work as a Researcher on transfer learning for political communication analysis at Oxford's {{< staticref "https://www.qeh.ox.ac.uk/" "newtab" >}} Development Institute {{< /staticref >}} and {{< staticref "https://www.politics.ox.ac.uk/" "newtab" >}}Department of Politics{{< /staticref >}}. I also collaborate with {{< staticref "https://medialab.sciencespo.fr/en/" "newtab" >}} Science Po's MediaLab {{< /staticref >}}. Previously, I completed an MPhil in Politics (Oxford, 2021) and a BA in Politics and International Relations (Exeter, 2019).

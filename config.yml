@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: giulianoformisano/giulianoformisano.github.io
+  repo: giulianoformisano/gf-website
   branch: master
   site_domain: https://giulianoformisano.github.io
 

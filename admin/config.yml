@@ -2,7 +2,7 @@ backend:
   name: github
   repo: giulianoformisano/giulianoformisano.github.io
   branch: master
-  site_domain: https://giulianoformisano.netlify.com/
+  site_domain: https://giulianoformisano.github.io
 
 media_folder: "images/uploads"
 

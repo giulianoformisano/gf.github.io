@@ -16,7 +16,7 @@ We apply machine learning and sentiment analysis to social and public media data
 3b. Public receptiveness to anger translates into citizen support for populist actors."
 featured: false
 image:
-  preview_only: true
+  preview_only: false
 publication: "*Work in progress*"
 ---
 

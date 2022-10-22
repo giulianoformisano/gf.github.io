@@ -31,6 +31,15 @@ item:
     organization_url: https://www.oii.ox.ac.uk
     title: Digital Politics (Postgraduate)
     url: ''
+    
+  - certificate_url: 
+    date_end: '2022-10-10'
+    date_start: '2022-12-02'
+    description: 'Teaching assistant to Dr Grant Blank. Teaching laboratory and seminar sessions, as well as marking weekly assignments.'
+    organization: 'Oxford Internet Institute'
+    organization_url: https://www.oii.ox.ac.uk
+    title: Statistics Core (Postgraduate)
+    url: ''
   
 design:
   columns: '2'

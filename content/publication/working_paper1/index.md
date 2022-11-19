@@ -1,5 +1,5 @@
 ---
-title: "Fear-anger cycles: Governmental and populist politics of emotion (Under Review)"
+title: "Fear-anger cycles: Governmental and populist politics of emotion (forthcoming)"
 date: pending
 authors: ["Joerg Friedrichs", "Niklas Stoehr", "Giuliano Formisano"]
 publication_types: ["2"]
@@ -17,6 +17,6 @@ We apply machine learning and sentiment analysis to social and public media data
 featured: false
 image:
   preview_only: false
-publication: "*Work in progress*"
+publication: "Online Social Networks and Media"
 ---
 

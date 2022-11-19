@@ -4,7 +4,7 @@ backend:
   branch: master
   site_domain: https://giulianoformisano.netlify.app/
 
-media_folder: "images/uploads"
+media_folder: "https://giulianoformisano.netlify.app/images/uploads"
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog

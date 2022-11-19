@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: giulianoformisano/gf.github.io
+  repo: giulianoformisano/giulianoformisano.github.io
   branch: master
   site_domain: https://giulianoformisano.netlify.app/
 

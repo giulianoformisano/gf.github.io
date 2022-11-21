@@ -1,7 +1,7 @@
 ---
 header:
-  caption: ""
+  caption: "Work in Progress"
   image: ""
-title: Publications
+title: Work in Progress
 view: 10
 ---

@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 30
 
 title: Work in Progress
 subtitle: ''
@@ -17,7 +17,7 @@ content:
   page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+  # filter_default: 0
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -44,5 +44,5 @@ design:
   view: showcase
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  # flip_alt_rows: false
 ---

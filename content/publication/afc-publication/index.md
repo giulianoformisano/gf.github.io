@@ -18,11 +18,11 @@ publishDate: "2022-17-11T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Online Social Networks and Media*"
-publication_short: ""
+publication_short: "Published in *Online Social Networks and Media*"
 
 abstract: "This article explores how political actors use the emotions of fear and anger in what we call fear-anger contests. Our theory distinguishes between governmental and populist actors and posits that, in a contest for media attention and the hearts and minds of citizens, populists pursue a politics of anger whereas governmental actors pursue a politics of fear. To evaluate the theory, we examine two episodes of contentious politics: the 2016 Brexit referendum and the election of Donald Trump in the same year. We rely on automated sentiment analysis, using machine learning and emotion dictionaries to examine a dataset of social media posts on Twitter. In the case of Brexit, we find a fear-anger contest between Remain (“Project Fear”) and Leave (“Project Anger”). In the case of the 2016 US presidential election, we find a negativity contest where both parties reinforce each other’s negative emotions."
 

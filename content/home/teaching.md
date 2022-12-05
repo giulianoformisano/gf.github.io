@@ -25,8 +25,8 @@ date_format: Jan 2006
 
 item:
   - certificate_url: 
-    date_end: '2022-10-10'
-    date_start: '2022-12-02'
+    date_end: '2022-12-02'
+    date_start: '2022-10-10'
     description: 'Teaching assistant to Dr Grant Blank. Teaching laboratory and seminar sessions, as well as marking weekly assignments.'
     organization: 'Oxford Internet Institute'
     organization_url: https://www.oii.ox.ac.uk

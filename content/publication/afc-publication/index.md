@@ -32,8 +32,8 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: ''
+url: 'https://www.sciencedirect.com/science/article/pii/S2468696422000428'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S2468696422000428/pdfft?md5=924c9488e369ba56fa49ad7b1fc33cea&pid=1-s2.0-S2468696422000428-main.pdf'
 url_code: ''
 url_dataset: 'https://dataverse.harvard.edu/dataverse/fear-anger-contests'
 url_poster: ''

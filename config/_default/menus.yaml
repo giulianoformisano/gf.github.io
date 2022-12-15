@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
+  - name: Publications
     url: '#research'
     weight: 20
   - name: Working Papers

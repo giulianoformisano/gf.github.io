@@ -11,7 +11,7 @@ active: true
 # Order that this section appears on the page.
 weight: 25
 
-title: 'Research'
+title: 'Publications'
 subtitle: ''
 
 content:
@@ -36,6 +36,6 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
+  view: 4
 ---
 

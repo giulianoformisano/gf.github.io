@@ -1,5 +1,5 @@
 ---
-title: "Fear-anger cycles: Governmental and populist politics of emotion (2022) Online Social Networks and Media"
+title: "Fear-anger cycles: Governmental and populist politics of emotion"
 authors:
 - Joerg Friedrichs
 - Niklas Stoehr

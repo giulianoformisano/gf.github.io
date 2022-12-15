@@ -16,16 +16,9 @@ weight = 50
 
 +++
 
-
-### Graduate:<br/>
-- **Python and Quantitative Text Analysis for Social Scientists**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>
-- **Text as Data: Computational Text Analysis**<br/> Course Convener <br/> Department of Politics and International Relations <br/> University of Oxford <br/>[[Syllabus]](https://www.dropbox.com/s/39b2by3rb87gspb/Syllabus___Oxford_Text_Analysis.pdf?dl=0)  [[Material on Github]](https://github.com/aelshehawy/text-as-data-computational-text-analysis-oxford
-)<br/>
-- **Applied Statistics for Political Scientists - Lab Sessions**<br/> Department of Politics and International Relations <br/> University of Oxford <br/> 
-- **Computational Text Analysis for Political Science**  <br/> Department of Political Science <br/> University of Houston <br/> [[Syllabus]](https://www.dropbox.com/s/zjeofcbphzgvjfi/Computational.pdf?dl=0)<br/>
-
-
-### Undergraduate:<br/>
-- **211: Politics of the Middle East**  <br/>  PPE (Politics, Philosophy, Economics) Degree<br/> Pembroke, St. Hilda's, and Somerville Colleges<br/> University of Oxford <br/> 
-- **201: Comparative Government**   <br/>  PPE (Politics, Philosophy, Economics) Degree <br/> University of Oxford <br/> 
-- **Tutorial: Empirical Political Research in Political Science**   <br/> Lecture by: Dr. Sean Carey<br/>  University of Mannheim, Germany
+- Giuliano, F., Friedrichs, F., Schaffner, F., Stoehr, N. (Working Paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br/>
+- Clemente, A.*, Formisano, G.* (Working Paper) Are we all in this together? Using transfer learning to study changes in redistribution attitudes during COVID-19. Presented at EPSA 2022 .
+- Saunders, C., Formisano, G., Lavender, L., Palmer, A. (Working Paper) Affective Polarisation: Imagined or Real? A Discourse Analysis of the Debate About Bovine TB and Badger Culling.
+- Formisano, G., Sohnius, M.L. (Work in Progress) Political distrust and voter turnout in the 2020 US Presidential Elections.
+- Theocharis, Y., Kosmidis, S., Formisano, G. (Work in Progress) Origins of the subcrowds.
+- Froio, C., Castelli-Gattinara, P., Formisano, G., et al. (Work in Progress) Protest Event Analysis: A Supervised NLP Approach.

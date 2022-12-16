@@ -25,7 +25,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: giuliano.formisanoATnuffield.ox.ac.uk
+  email: giuliano.formisano [AT] nuffield.ox.ac.uk
   phone:
   address:
     street: Nuffield College, New Road

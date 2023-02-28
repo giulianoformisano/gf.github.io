@@ -11,7 +11,7 @@ main:
     url: '#research'
     weight: 20
   - name: Ongoing Research
-    url: '#working-papers'
+    url: '#ongoing-research'
     weight: 30
   - name: Teaching
     url: '#teaching'

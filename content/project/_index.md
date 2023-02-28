@@ -1,7 +1,7 @@
 ---
 header:
-  caption: "Work in Progress"
+  caption: "Ongoing Research"
   image: ""
-title: Work in Progress
+title: Ongoing Research
 view: 10
 ---

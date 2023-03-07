@@ -17,6 +17,7 @@ weight = 50
 +++
 
 - **Giuliano, F.**, Friedrichs, F., Schaffner, F., Stoehr, N. (Working Paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. 
+<br>
 
 - Clemente, A., **Formisano, G.** (Working Paper) Are we all in this together? Using transfer learning to study changes in redistribution attitudes during COVID-19. Presented at EPSA 2022 .
 

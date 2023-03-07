@@ -17,5 +17,4 @@ weight = 60
 +++
 
 
-Joerg Friedrichs, Niklas Stoehr, **Giuliano Formisano (2022)**.  {{< staticref "https://www.sciencedirect.com/science/article/pii/S2468696422000428" "newtab" >}} Fear-anger cycles: Governmental and populist politics of emotion. 
-Fear-anger contests: Governmental and populist politics of emotion {{< /staticref >}}. Online Social Networks and Media. 
+Joerg Friedrichs, Niklas Stoehr, **Giuliano Formisano (2022)**.  {{< staticref "https://www.sciencedirect.com/science/article/pii/S2468696422000428" "newtab" >}} Fear-anger cycles: Governmental and populist politics of emotion. {{< /staticref >}}. *Online Social Networks and Media*. 

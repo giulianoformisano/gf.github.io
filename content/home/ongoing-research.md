@@ -25,7 +25,7 @@ weight = 50
 - Saunders, C., **Formisano, G.**, Lavender, L., Palmer, A. (Working Paper) Affective Polarisation: Imagined or Real? A Discourse Analysis of the Debate About Bovine TB and Badger Culling. <br>
 <br>
 
-- Theocharis, Y., Kosmidis, S., **Formisano, G.** (Work in Progress) Origins of the subcrowds. <br>
+- Theocharis, Y., Kosmidis, S., **Formisano, G.** (Work in Progress) Wisdom of the Sub-Crowds: Partisan-Based Measurement of Online Polarization. <br>
 <br>
 
 - Valentim, V., **Formisano, G.** (Work in Progress) Calling out unacceptable rhetoric on social media. <br>

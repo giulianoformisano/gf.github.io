@@ -14,15 +14,13 @@ weight = 30
 
 +++
 
-**Publications**
+<center> <b> Publications </b> </center> 
 <br>
 Joerg Friedrichs, Niklas Stoehr, **Giuliano Formisano** (2022). {{< staticref "https://www.sciencedirect.com/science/article/pii/S2468696422000428" "newtab" >}} Fear-anger cycles: Governmental and populist politics of emotion{{< /staticref >}}. *Online Social Networks and Media*. {{< staticref "https://dataverse.harvard.edu/dataverse/fear-anger-contests" "newtab" >}} [Data] {{< /staticref >}}
 <br>
 <br>
 
-<center> 
-  **Working Papers**
-</center> 
+<center> <b> Working Papers </b> </center> 
 <br>
 **Giuliano, F.**, Friedrichs, F., Schaffner, F., Stoehr, N. (Working Paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
 
@@ -32,7 +30,7 @@ Saunders, C., **Formisano, G.**, Lavender, L., Palmer, A. (Working Paper) Affect
 <br>
 <br>
 
-**Work in Progress**
+<center> <b> Work in Progress </b> </center> 
 <br>
 Theocharis, Y., Kosmidis, S., **Formisano, G.** (Work in Progress) Wisdom of the Sub-Crowds: Partisan-Based Measurement of Online Polarization. <br>
 

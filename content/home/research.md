@@ -18,7 +18,9 @@ weight = 30
 <br>
 Joerg Friedrichs, Niklas Stoehr, **Giuliano Formisano** (2022). {{< staticref "https://www.sciencedirect.com/science/article/pii/S2468696422000428" "newtab" >}} Fear-anger cycles: Governmental and populist politics of emotion{{< /staticref >}}. *Online Social Networks and Media*. {{< staticref "https://dataverse.harvard.edu/dataverse/fear-anger-contests" "newtab" >}} [Data] {{< /staticref >}}
 <br>
-** Working Papers **
+<br>
+
+**Working Papers**
 **Giuliano, F.**, Friedrichs, F., Schaffner, F., Stoehr, N. (Working Paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
 <br>
 
@@ -27,8 +29,9 @@ Clemente, A., **Formisano, G.** (Working Paper) Are we all in this together? Usi
 
 Saunders, C., **Formisano, G.**, Lavender, L., Palmer, A. (Working Paper) Affective Polarisation: Imagined or Real? A Discourse Analysis of the Debate About Bovine TB and Badger Culling. <br>
 <br>
+<br>
 
-** Work in Progress **
+**Work in Progress**
 - Theocharis, Y., Kosmidis, S., **Formisano, G.** (Work in Progress) Wisdom of the Sub-Crowds: Partisan-Based Measurement of Online Polarization. <br>
 <br>
 

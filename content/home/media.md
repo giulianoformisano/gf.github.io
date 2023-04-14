@@ -14,8 +14,6 @@ weight = 50
 
 +++
 
-<center> <b> Grand Continent (French) </b> </center> 
-<br>
 <b> Giuliano Formisano </b> (2020). {{< staticref "https://legrandcontinent.eu/fr/2020/09/07/toujours-pas-daccord-sur-le-brexit/" "newtab" >}} Toujours pas d’accord sur le Brexit{{< /staticref >}}. <i>Le Grand Continent</i>.
 <br>
 

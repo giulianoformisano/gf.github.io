@@ -22,7 +22,7 @@ Joerg Friedrichs, Niklas Stoehr, **Giuliano Formisano** (2022). {{< staticref "h
 
 <center> 
   **Working Papers**
-<\center> 
+</center> 
 <br>
 **Giuliano, F.**, Friedrichs, F., Schaffner, F., Stoehr, N. (Working Paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
 

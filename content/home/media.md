@@ -10,7 +10,7 @@ title = "Media"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 40
+weight = 50
 
 +++
 

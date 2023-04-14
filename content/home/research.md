@@ -23,7 +23,6 @@ Joerg Friedrichs, Niklas Stoehr, **Giuliano Formisano** (2022). {{< staticref "h
 **Working Papers**
 <br>
 **Giuliano, F.**, Friedrichs, F., Schaffner, F., Stoehr, N. (Working Paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
-<br>
 
 Clemente, A., **Formisano, G.** (Working Paper) Are we all in this together? Using transfer learning to study changes in redistribution attitudes during COVID-19. Presented at EPSA 2022. <br>
 <br>

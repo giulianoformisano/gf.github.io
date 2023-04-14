@@ -21,6 +21,7 @@ Joerg Friedrichs, Niklas Stoehr, **Giuliano Formisano** (2022). {{< staticref "h
 <br>
 
 **Working Papers**
+<br>
 **Giuliano, F.**, Friedrichs, F., Schaffner, F., Stoehr, N. (Working Paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
 <br>
 
@@ -32,7 +33,8 @@ Saunders, C., **Formisano, G.**, Lavender, L., Palmer, A. (Working Paper) Affect
 <br>
 
 **Work in Progress**
-- Theocharis, Y., Kosmidis, S., **Formisano, G.** (Work in Progress) Wisdom of the Sub-Crowds: Partisan-Based Measurement of Online Polarization. <br>
+<br>
+Theocharis, Y., Kosmidis, S., **Formisano, G.** (Work in Progress) Wisdom of the Sub-Crowds: Partisan-Based Measurement of Online Polarization. <br>
 <br>
 
 Valentim, V., **Formisano, G.** (Work in Progress) Calling out unacceptable rhetoric on social media. <br>

@@ -16,19 +16,19 @@ weight = 50
 
 <center> <b> Grand Continent (French) </b> </center> 
 <br>
-<b> Giuliano Formisano </b> (2020). {{< staticref "https://legrandcontinent.eu/fr/2020/09/07/toujours-pas-daccord-sur-le-brexit/" "newtab" >}} Toujours pas d’accord sur le Brexit{{< /staticref >}}. <i>Grand Continent</i>.
+<b> Giuliano Formisano </b> (2020). {{< staticref "https://legrandcontinent.eu/fr/2020/09/07/toujours-pas-daccord-sur-le-brexit/" "newtab" >}} Toujours pas d’accord sur le Brexit{{< /staticref >}}. <i>Le Grand Continent</i>.
 <br>
 
 <br>
-<b> Giuliano Formisano </b> (2020). {{< staticref "https://legrandcontinent.eu/fr/2020/07/04/le-brexit-deconfine/" "newtab" >}} Le Brexit déconfiné{{< /staticref >}}. <i>Grand Continent</i>.
+<b> Giuliano Formisano </b> (2020). {{< staticref "https://legrandcontinent.eu/fr/2020/07/04/le-brexit-deconfine/" "newtab" >}} Le Brexit déconfiné{{< /staticref >}}. <i>Le Grand Continent</i>.
 <br>
 
 <br>
-<b> Giuliano Formisano </b> (2020). {{< staticref "https://legrandcontinent.eu/fr/2020/04/16/des-negociations-mises-en-quarantaine/" "newtab" >}} Des négociations mises en quarantaine ?{{< /staticref >}}. <i>Grand Continent</i>.
+<b> Giuliano Formisano </b> (2020). {{< staticref "https://legrandcontinent.eu/fr/2020/04/16/des-negociations-mises-en-quarantaine/" "newtab" >}} Des négociations mises en quarantaine ?{{< /staticref >}}. <i>Le Grand Continent</i>.
 <br>
 
 <br>
-<b> Giuliano Formisano </b>, Anna Clemente (2020). {{< staticref "https://legrandcontinent.eu/fr/2020/05/27/la-regularisation-des-travailleurs-sans-papiers-divise-litalie/" "newtab" >}} La régularisation des travailleurs sans-papiers divise l’Italie{{< /staticref >}}. <i>Grand Continent</i>.
+<b> Giuliano Formisano </b>, Anna Clemente (2020). {{< staticref "https://legrandcontinent.eu/fr/2020/05/27/la-regularisation-des-travailleurs-sans-papiers-divise-litalie/" "newtab" >}} La régularisation des travailleurs sans-papiers divise l’Italie{{< /staticref >}}. <i>Le Grand Continent</i>.
 <br>
 <br>
 

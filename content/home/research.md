@@ -25,7 +25,6 @@ Joerg Friedrichs, Niklas Stoehr, **Giuliano Formisano** (2022). {{< staticref "h
 **Giuliano, F.**, Friedrichs, F., Schaffner, F., Stoehr, N. (Working Paper) A Machine Learning Approach to Analysing Populist and Governmental Rhetoric during the Coronavirus Pandemic. <br>
 
 Clemente, A., **Formisano, G.** (Working Paper) Are we all in this together? Using transfer learning to study changes in redistribution attitudes during COVID-19. Presented at EPSA 2022. <br>
-<br>
 
 Saunders, C., **Formisano, G.**, Lavender, L., Palmer, A. (Working Paper) Affective Polarisation: Imagined or Real? A Discourse Analysis of the Debate About Bovine TB and Badger Culling. <br>
 <br>
@@ -34,13 +33,10 @@ Saunders, C., **Formisano, G.**, Lavender, L., Palmer, A. (Working Paper) Affect
 **Work in Progress**
 <br>
 Theocharis, Y., Kosmidis, S., **Formisano, G.** (Work in Progress) Wisdom of the Sub-Crowds: Partisan-Based Measurement of Online Polarization. <br>
-<br>
 
 Valentim, V., **Formisano, G.** (Work in Progress) Calling out unacceptable rhetoric on social media. <br>
-<br>
 
 Downing, J., Errichiello, E., **Formisano, G.** (Work in Progress) Securitizing Muslim migrants in Western Europe: A computational analysis of elite and non-elite actors’ communication on Twitter in European terror attacks. <br>
-<br>
 
 Froio, C., Castelli-Gattinara, P., **Formisano, G.**, et al. (Work in Progress) Protest Event Analysis: A Supervised NLP Approach.  <br>
 <br>
